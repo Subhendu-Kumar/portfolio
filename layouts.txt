@@ -6,5 +6,8 @@ Basic layout of the website
 -> About page ✔️
 -> playful section ✔️
 -> Projects/Cards section ✔️
--> contact section ❌
+-> contact section ❌ (to do)
 -> footer ✔️
+
+
+-> Mobile Responsive ❌ (to do)

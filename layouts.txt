@@ -1,0 +1,10 @@
+Basic layout of the website
+
+-> navbar
+-> landing page
+-> marquee
+-> About page 
+-> playful section
+-> Projects/Cards section
+-> contact section
+-> footer

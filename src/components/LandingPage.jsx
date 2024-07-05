@@ -5,7 +5,7 @@ import { FaWhatsapp } from "react-icons/fa6";
 function LandingPage() {
   return (
     <div className="w-full h-screen pt-1">
-      <div className="textstr mt-48 px-20">
+      <div className="mt-48 px-20">
         {["Hello I'm", "Subhendu />", "Software Developer"].map(
           (data, index) => {
             return (

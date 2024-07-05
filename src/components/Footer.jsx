@@ -9,7 +9,6 @@ function Footer() {
         <p>&copy; {currentYear}&nbsp;&nbsp;</p>
         <p className="hover:underline">Subhendu Kumar</p>
       </div>
-      <p>All Rights Reserved !</p>
       <VisitMeLinks />
     </div>
   );
